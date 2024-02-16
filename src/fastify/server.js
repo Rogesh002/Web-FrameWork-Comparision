@@ -1,0 +1,1 @@
+console.log(`fastify is listening on port ${process.argv[3]}`);
